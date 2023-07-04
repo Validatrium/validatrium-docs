@@ -12,20 +12,10 @@
   ],
   "rootMainFiles": [],
   "pages": {
-    "/Archway/peers": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/Archway/peers.js"
-    ],
     "/Archway/public-endpoints": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/Archway/public-endpoints.js"
-    ],
-    "/Archway/seed": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/Archway/seed.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",
