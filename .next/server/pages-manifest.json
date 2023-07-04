@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/Archway/peers": "pages/Archway/peers.js",
+  "/Archway/seed": "pages/Archway/seed.js",
+  "/Archway/public-endpoints": "pages/Archway/public-endpoints.js"
+}

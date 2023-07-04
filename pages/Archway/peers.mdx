@@ -1,0 +1,6 @@
+# Archway Mainnet Peers
+```bash copy
+peers=8d22402509a05c5a3cae558eea48089b0ebc500e@43.202.63.27:26656,4f23d8123f629fd03b100da23d51287e003d7be8@65.108.235.166:15656
+5a46d12b3dfc7f5b2481296c3b3b289bfb06fdcf@94.250.203.6:21656
+sed -i "s/persistent_peers =.*/persistent_peers = \"$peers\"/g" $HOME/.archway/config/config.toml
+```
