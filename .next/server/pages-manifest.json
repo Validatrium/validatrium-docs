@@ -1,6 +1,9 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/Archway/public-endpoints": "pages/Archway/public-endpoints.js"
+  "/_error": "pages/_error.js",
+  "/": "pages/index.js",
+  "/Juno/peers": "pages/Juno/peers.js",
+  "/Juno/seeds": "pages/Juno/seeds.js",
+  "/Juno/public-endpoints": "pages/Juno/public-endpoints.js"
 }

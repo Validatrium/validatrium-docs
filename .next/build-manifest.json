@@ -12,10 +12,25 @@
   ],
   "rootMainFiles": [],
   "pages": {
-    "/Archway/public-endpoints": [
+    "/": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/Archway/public-endpoints.js"
+      "static/chunks/pages/index.js"
+    ],
+    "/Juno/peers": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Juno/peers.js"
+    ],
+    "/Juno/public-endpoints": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Juno/public-endpoints.js"
+    ],
+    "/Juno/seeds": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Juno/seeds.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",
