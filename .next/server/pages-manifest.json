@@ -1,8 +1,0 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/Crossfi/public-endpoints": "pages/Crossfi/public-endpoints.js",
-  "/Crossfi/seed": "pages/Crossfi/seed.js"
-}
